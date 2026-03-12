@@ -42,3 +42,14 @@
 ### Ответ:
 
 ![](images/task4.png)
+
+---
+## Задание 5
+
+### Условие ответа:
+
+> Добавьте факты в group_vars каждой из групп хостов так, чтобы для some_fact получились значения: для deb — deb default fact, для el — el default fact.
+
+### Ответ:
+
+![](images/task5.png)
